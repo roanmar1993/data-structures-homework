@@ -16,6 +16,12 @@ This repository contains C++ homework assignments completed for the **Data Struc
 
 
 ---
+##Scores
+HW1 10/10
+HW2 10/10 (for both)
+HW3 10/10
+HW4 5/10
+HW5 10/10
 
 ## 🛠️ How to Compile and Run
 
