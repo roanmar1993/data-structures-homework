@@ -16,12 +16,16 @@ This repository contains C++ homework assignments completed for the **Data Struc
 
 
 ---
-##Scores
-HW1 10/10
-HW2 10/10 (for both)
-HW3 10/10
-HW4 5/10
-HW5 10/10
+
+## 📝 Scores
+
+| HW  | Assignment Titles                            | Score   |
+|-----|----------------------------------------------|---------|
+| 1   | Gold Miner                                   | 10/10   |
+| 2   | Happy Farm, Trainer’s Final Battle           | 10/10 (for both) |
+| 3   | Run Away!!                                   | 10/10   |
+| 4   | Spider-Man’s Delivery Service                | 5/10    |
+| 5   | Corrupt Hospital                             | 10/10   |
 
 ## 🛠️ How to Compile and Run
 
